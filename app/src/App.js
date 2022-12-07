@@ -42,7 +42,7 @@ function App() {
         </div>
       </div>
       <div className="footer">
-        <button className="reset-button" onClick={handleReset}>Reset</button>
+        <button className="reset" onClick={handleReset}>Reset</button>
         <div className="attribution">
           Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank" rel="noopener noreferrer">Frontend Mentor</a>. 
           Coded by <a href="https://twitter.com/mixchex" target="_blank" rel="noopener noreferrer">Mike Cheshire</a>.

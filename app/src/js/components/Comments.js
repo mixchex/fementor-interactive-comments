@@ -11,7 +11,7 @@ const Comments = ({
         comments.length ? 
         <ul className="comments">
             {comments.map((comment, i) =>
-                <li key={comment.id}>
+                <li key={i}>
                     <Comment
                         comment={comment}
                         currentUser={currentUser}

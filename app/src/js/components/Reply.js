@@ -58,7 +58,7 @@ const Reply = ({
                             onChange={(e)=>setTextareaValue(e.target.value)}
                         ></textarea>
                     </div>
-                    <button disabled={textareaValue === ''} onClick={ e => onSubmit(submitData()) } className="comment__input-button comment__input-button--primary">
+                    <button disabled={textareaValue === ''} onClick={ () => onSubmit(submitData()) } className="comment__input-button comment__input-button--primary">
                         {type === 'reply' ? 'Reply' : 'Send'}
                     </button>
                 </div>
