@@ -30,7 +30,17 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+Here's what it should look like on desktop:
+![](./design/desktop-design.jpg)
+And mobile:
+![](./design/mobile-design.jpg)
+
+Active states:
+![](./design/active-states.jpg)
+
+And an active modal:
+![](./design/desktop-modal.jpg.jpg)
+![](./design/mobile-modal.jpg)
 
 ### Links
 
