@@ -30,21 +30,21 @@ Users should be able to:
 
 ### Screenshot
 
-Here's what it should look like on desktop:
-![](./design/desktop-design.jpg)
-And mobile:
+Here's what it should look like on desktop:\
+![](./design/desktop-design.jpg)\
+And mobile:\
 ![](./design/mobile-design.jpg)
 
-Active states:
+Active states:\
 ![](./design/active-states.jpg)
 
-And an active modal:
-![](./design/desktop-modal.jpg.jpg)
+And an active modal:\
+![](./design/desktop-modal.jpg.jpg)\
 ![](./design/mobile-modal.jpg)
 
 ### Links
 
-- Solution URL: (https://mixchex.github.io/fementor-interactive-comments/)
+- Solution URL: (https://mixchex.github.io/fementor-interactive-comments/public/)
 
 ## My process
 
