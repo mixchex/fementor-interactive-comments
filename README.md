@@ -44,7 +44,7 @@ And an active modal:\
 
 ### Links
 
-- Solution URL: (https://mixchex.github.io/fementor-interactive-comments/public/)
+- Solution URL: (https://mixchex.github.io/fementor-interactive-comments/build/)
 
 ## My process
 
