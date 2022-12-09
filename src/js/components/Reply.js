@@ -58,7 +58,7 @@ const Reply = ({
                             onChange={(e)=>setTextareaValue(e.target.value)}
                         ></textarea>
                     </div>
-                    <button disabled={textareaValue === ''} onClick={ () => onSubmit(submitData()) } className="comment__input-button comment__input-button--primary">
+                    <button aria-label={`${type === 'reply' ? 'Reply to Comment' : 'Send New Comment'}`} disabled={textareaValue === ''} onClick={ () => onSubmit(submitData()) } className="comment__input-button comment__input-button--primary">
                         {type === 'reply' ? 'Reply' : 'Send'}
                     </button>
                 </div>
